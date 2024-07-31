@@ -1,0 +1,3 @@
+[submodule "Code-editor-front-end"]
+	path = Code-editor-front-end
+	url = https://github.com/Nibalab/Code-Editor-front-end.git
